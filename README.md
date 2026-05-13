@@ -3,15 +3,6 @@ Live URL
 
 [https://bidhasmongar-02250345-dso101-a4.onrender.com]
 
-Project Structure
-
-├── index.html        # Main webpage
-├── style.css         # Stylesheet
-├── README.md         # This file
-└── .github/
-    └── workflows/
-        └── deploy.yml  # GitHub Actions CI/CD workflow
-
 Tools Used
 
 - **GitHub** – version control and repository hosting
